@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">DeviceID</string>
+    <string name="android_id">Android ID</string>
+    <string name="build">Hardware</string>
+    <string name="board">Board</string>
+    <string name="bootloader">Bootloader</string>
+    <string name="brand">Brand</string>
+    <string name="device">Device</string>
+    <string name="display">Display</string>
+    <string name="fingerprint">Fingerprint</string>
+    <string name="hardware">Hardware</string>
+    <string name="host">Host</string>
+    <string name="id">ID</string>
+    <string name="manufacturer">Manufacturer</string>
+    <string name="model">Model</string>
+    <string name="product">Product</string>
+    <string name="serial">Serial</string>
+    <string name="supported_abis">Supported ABIs</string>
+    <string name="tags">Tags</string>
+    <string name="time">Time</string>
+    <string name="type">Type</string>
+    <string name="user">User</string>
+    <string name="version">Software</string>
+    <string name="base_os">Base OS</string>
+    <string name="codename">Codename</string>
+    <string name="incremental">Incremental</string>
+    <string name="release">Release</string>
+    <string name="sdk_int">SDK</string>
+    <string name="security_patch">Security Patch</string>
+</resources>
